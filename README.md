@@ -62,7 +62,7 @@ Host: example.com
 
 ## Whatweb
 ### output
-![net](./img/net.png)
+![wwgoogle](./img/wwgoogle.png)
 
 ## httprint
 ### output
@@ -74,8 +74,7 @@ Host: example.com
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
-![wwwgoogle](./img/wwwgoogle.png)
-![wwwsaveetha](./img/wwwsaveetha.png)
+![wwsaveetha](./img/wwsaveetha.png)
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
